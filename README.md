@@ -1,8 +1,29 @@
 # interview_preparation
 
+## Coding Tips
+
+- Handle Corner cases
+- return error
+- Handle edge cases
+- Meaningful Variable names
+- Proper I/O
+- Error Hanlding
+- exception handling
+- Memory Usage
+- Optimized Solution
+
+- Clarify the questions
+- Dont Assume
+- Remove Ambiquity
+
 ## Coding Questions
 
-TBD
+- Find Non Repeating Elements in an Array
+- Write a function to remove Kth node from the last element in a Linked list (len = n)
+- Write a function to call 3rd party software that translates word from Eng to French
+- Given a orbitary string, 1) Find a work which occurs most number of times. 2) Modify the solution to return least occuring word
+- 
+
 
 ## System Design
 
@@ -17,3 +38,4 @@ TBD
 ## References
 
 - [SRE Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
+-
