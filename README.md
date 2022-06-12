@@ -33,8 +33,10 @@
 - Serialize and Deserialize the binary tree
 - Write an interface to allow apps to allocate and release the fix size chunk of memory
 - Given a 64-bit number, Fid a length of longest sequence of one's you can create by flipping the bit from 0->1
-- 
-- 
+
+## Leetcode
+![](https://github.com/rockease2021/leetcode/blob/main/Count_Char_Occurance.py)
+
 
 
 ## System Design
