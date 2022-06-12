@@ -34,9 +34,13 @@
 - Write an interface to allow apps to allocate and release the fix size chunk of memory
 - Given a 64-bit number, Fid a length of longest sequence of one's you can create by flipping the bit from 0->1
 
-## Leetcode
 - [Count character Occurance](https://github.com/rockease2021/leetcode/blob/main/Count_Char_Occurance.py)
-
+- [Convert array to BST](https://github.com/rockease2021/leetcode/blob/main/convert_array_to_BST.py)
+- [Is BST](https://github.com/rockease2021/leetcode/blob/main/is_bst.py)
+- [Is symmetric Tree Iterative](https://github.com/rockease2021/leetcode/blob/main/is_symmetric_tree_iterative.py)
+- [Reverse integer](https://github.com/rockease2021/leetcode/blob/main/reverse_integer.py)
+- [Reverse words](https://github.com/rockease2021/leetcode/blob/main/reverse_words_in_paragraph.py)
+- [String recursive split](https://github.com/rockease2021/leetcode/blob/main/string_recursive_split.py)
 
 
 ## System Design
