@@ -19,9 +19,21 @@
 ## Coding Questions
 
 - Find Non Repeating Elements in an Array
-- Write a function to remove Kth node from the last element in a Linked list (len = n)
-- Write a function to call 3rd party software that translates word from Eng to French
-- Given a orbitary string, 1) Find a work which occurs most number of times. 2) Modify the solution to return least occuring word
+- Write a function to remove the Kth node from the last element in a Linked list (len = n)
+- Write a function to call 3rd party software that translates a word from Eng to French
+- Given an arbitrary string, 1) Find a work that occurs most often. 2) Modify the solution to return the least occurring word
+- Given an arbitrary string, Find the first character in a string that occurs only once
+- Linked list contains two pointers, P1 points to the next node, and P2 points to the random node - Write a function to deep copy the list
+- Write a function to implement the Unix "find" command
+- Given a Set "T" of characters and string "S", Find a minimum window in "S" which will contain all the characters in "T" (complexity O(n)
+- Given a root node of a tree, Write a function to verify it is a BST()
+- Reverse a linked list
+- Mempool managing function, Provide an API for 1) add mem region to pool 2) remove mem region from pool 3) allocate a region of specified size, alignment, address range
+- Given a string, return a list of words you can make from the letters
+- Serialize and Deserialize the binary tree
+- Write an interface to allow apps to allocate and release the fix size chunk of memory
+- Given a 64-bit number, Fid a length of longest sequence of one's you can create by flipping the bit from 0->1
+- 
 - 
 
 
